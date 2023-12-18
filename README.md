@@ -2,6 +2,12 @@
 
 ![:RuoXiJun](https://count.getloli.com/get/@:ruoxijun)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruoxijun/ruoxijun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruoxijun/ruoxijun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruoxijun/ruoxijun/output/github-contribution-grid-snake.svg">
+</picture>
+
 # 💻 GitHub Profile Stats
 
 <a href="https://github.com/ruoxijun"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruoxijun&count_private=true&show_icons=true&theme=ambient_gradient" height="180px"/></a>
