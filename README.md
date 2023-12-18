@@ -4,8 +4,8 @@
 
 ## 💻 GitHub Profile Stats
 
-<a href="https://github.com/ruoxijun"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruoxijun&count_private=true&show_icons=true&theme=ambient_gradient" height="192px"/></a>
-<a href="https://github.com/ruoxijun"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoxijun&layout=compact&theme=ambient_gradient" height="192px"/></a>
+<a href="https://github.com/ruoxijun"><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ruoxijun&count_private=true&show_icons=true&theme=ambient_gradient" height="160px"/></a>
+<a href="https://github.com/ruoxijun"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruoxijun&layout=compact&theme=ambient_gradient" height="160px"/></a>
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruoxijun&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/ruoxijun)
 
