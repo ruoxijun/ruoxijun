@@ -6,9 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    timeout-minutes: 5
     steps:
       # - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
