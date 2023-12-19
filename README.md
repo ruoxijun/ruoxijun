@@ -1,4 +1,4 @@
-[![Hi there 👋, I'm Ruo Xijun.](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=525&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ruo+Xijun.)](https://github.com/ruoxijun)
+[![Hi there 👋, I'm Ruo Xijun.](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=F70000&vCenter=true&random=true&height=40&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ruo+Xijun.)](https://github.com/ruoxijun)
 
 ![:RuoXiJun](https://count.getloli.com/get/@:ruoxijun)
 
